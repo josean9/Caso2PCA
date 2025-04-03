@@ -1,0 +1,1 @@
+SELECT * FROM [usecases].DATAEX.[IA_Client_segment_MODIFICADO]
